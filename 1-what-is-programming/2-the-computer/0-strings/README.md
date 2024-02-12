@@ -27,6 +27,7 @@ The `_ + _` operator combines two string values into one string value:
 'use strict';
 
 // combines multiple strings into a single string
+
 // the "trace" button will help see the difference
 
 // logs the 3 strings separately
