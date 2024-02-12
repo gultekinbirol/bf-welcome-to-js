@@ -1,5 +1,7 @@
 'use strict';
 
+debugger;
+
 /* Declaring and Initializing
 
   you can also initialize a variable with a value
